@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "149775608955",
+    "project_id": "futuratask",
+    "storage_bucket": "futuratask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149775608955:android:aecef34b5ac06b354d06de",
+        "android_client_info": {
+          "package_name": "com.example.futuramachinetest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbkAqMWggVFNr1Nx3VCkANgIqYdyMayJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
