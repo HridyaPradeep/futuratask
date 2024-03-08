@@ -5,7 +5,8 @@ import 'package:http/http.dart';
 
 
 import 'Modelclass.dart';
-import 'Userdetails.dart';
+import 'details.dart';
+
 
 class CallApi extends StatelessWidget {
   const CallApi({super.key});

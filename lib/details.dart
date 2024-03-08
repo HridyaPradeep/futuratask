@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-// import '../models/new_model.dart';
+
 import 'Modelclass.dart';
 
 class DetailsScreen extends StatelessWidget {
@@ -11,7 +11,6 @@ class DetailsScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
